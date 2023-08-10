@@ -33,4 +33,7 @@ export DB_HOST='localhost'
 export DB_PORT='5432'
 # whitenoise setup for static files
 # https://whitenoise.readthedocs.io/en/stable/
-# pip install whitenoice
+# drf-spectacular install for rest framework it has swagger documentation
+# https://drf-spectacular.readthedocs.io/en/latest/
+# follow instructions in documentation:
+# https://drf-spectacular.readthedocs.io/en/latest/readme.html
